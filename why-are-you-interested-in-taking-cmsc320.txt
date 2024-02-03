@@ -1,0 +1,3 @@
+- I am interested in taking CMSC320 because reasoning about data is a valuable skill useful in practice. 
+- I enjoy the process of designing and testing a hypothesis using data and want to continue using it in my future work in the computer science field.
+- I want to further develop my proficiency in data analysis techniques, statistical analysis techniques, and machine learning algorithms.
